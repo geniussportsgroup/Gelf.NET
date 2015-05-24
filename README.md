@@ -1,6 +1,8 @@
 # Gelf.NET
 Gelf.NET is a port from the [gelf4net](https://github.com/jjchiw/gelf4net) project to provide the ability to publish messages to Graylog without any dependencies on other frameworks
 
+[![Build status](https://ci.appveyor.com/api/projects/status/94eeue42c2aggdq6?svg=true)](https://ci.appveyor.com/project/cjbhaines/gelf-net)
+
 ## Installation
 
 You can install the latest stable release using the nuget package `Gelf.NET`.
