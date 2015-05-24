@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Gelf.NET</id>
+    <version>1.0.0.0</version>
+    <authors>Betgenius Ltd</authors>
+    <owners>Betgenius Ltd</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>https://github.com/betgenius/Gelf.NET</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Gelf library for sending messages to Graylog2 via a UdpClient</description>
+    <tags>Gelf .net40 Graylog2</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\Gelf.dll" target="lib\net40\Gelf.dll" />
+  </files>
+</package>
